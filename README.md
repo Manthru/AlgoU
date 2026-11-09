@@ -20,7 +20,6 @@
 
 AlgoU is a full-stack coding platform built for students and developers who want to improve their problem-solving skills. It combines an online code compiler, AI-powered code reviews, and LeetCode-style coding problems — all in one dark, modern interface.
 
-Built as a **Bachelor's Thesis Project** at **IIT Indore** by V. Surya Teja.
 
 ---
 
